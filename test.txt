@@ -1,0 +1,9 @@
+<div class="container" data-masonry='{"percentPosition": true }'>
+    <h1 class="p-3">All Posts</h1>
+
+    <div class="row" >
+
+      
+
+    </div>
+  </div>
